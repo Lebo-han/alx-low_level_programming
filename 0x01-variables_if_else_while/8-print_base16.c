@@ -10,7 +10,7 @@ int main(void)
 
 	int k;
 
-	h = 'b';
+	h = 'a';
 	k = 0;
 	while (k < 10)
 	{
