@@ -6,7 +6,7 @@
  * Return:Always 0
  */
 void swap_int(int *a, int *b)
-	/* the functin that swaps the value of two integers. */
+/* the functin that swaps the value of two integers. */
 {
 	int temp = *a;
 	*a = *b;
